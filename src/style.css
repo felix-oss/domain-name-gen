@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+button {
+  background-color: yellow;
+  margin-top: 2%;
+}
+.Instruction {
+  margin-top: 2%;
+}
+ul {
+  margin-top: 2%;
+}
+li {
+  margin-top: 2%;
+}
