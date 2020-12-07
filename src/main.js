@@ -4,6 +4,7 @@ import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
+import { Button } from "bootstrap";
 
 let pronoun = ["the", "our"];
 let adj = ["great", "big"];
@@ -21,4 +22,5 @@ window.domnames = function domnames() {
       }
     }
   }
+  document.getElementById("butt").disabled = true;
 };
